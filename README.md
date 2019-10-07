@@ -8,23 +8,4 @@ A 42 project.
 This project let me familiarize myself with a recurring problematic in programming : searching the optimal solution among a huge set of possibilities, in a respectable timing. In this particular project, I had to find a way to assemble a given Tetriminos set altogether in the smallest possible square.
 
 Usage example:
-test_map.txt : (you can use another test maps in the corresponding file)
-.###
-..#.
-....
-....
-
-....
-....
-.##.
-##..
-
-....
-.##.
-.##.
-....
--> ./fillit test_map.txt
--> .AAA
-   CCA.
-   CCBB
-   .BB.
+./fillit test_map.txt (you can use another map in the test_maps directory)
